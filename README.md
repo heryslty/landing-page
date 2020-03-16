@@ -7,7 +7,7 @@ Contoh penerapan Docker pada web HTML landing page sekolah devops cilsy.
 ```
 cd lending-page-HTML
 ```
-* Build Docker image
+* Build Docker image.
 ```
 docker image build -t iddochub/nginx:version directory/Dockerfile
 docker image build -t heryslty/nginx:latest .
