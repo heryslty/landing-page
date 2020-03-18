@@ -3,7 +3,7 @@ Contoh penerapan Docker pada web HTML landing page sekolah devops cilsy
 
 
 ## How To Use
-* masuk kedalam file hasil clone/pull
+* masuk kedalam file hasil clone/pull.
 ```
 cd lending-page-HTML
 ```
