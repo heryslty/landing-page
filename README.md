@@ -1,5 +1,5 @@
 # README
-Contoh penerapan Docker pada web HTML landing page sekolah devops cilsy.
+Contoh penerapan Docker pada web HTML landing page sekolah devops cilsy
 
 
 ## How To Use
